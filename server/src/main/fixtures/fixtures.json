@@ -1,0 +1,29 @@
+{
+  "Gender": [
+    {
+      "name": "Male"
+    },
+    {
+      "name": "Female"
+    }
+  ],
+  "ProfileType": [
+    {
+      "name": "User"
+    },
+    {
+      "name": "Group"
+    }
+  ],
+  "Emotion": [
+    {
+      "name": "Negative"
+    },
+    {
+      "name": "Positive"
+    },
+    {
+      "name": "Neutral"
+    }
+  ]
+}
